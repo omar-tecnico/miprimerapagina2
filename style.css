@@ -21,10 +21,10 @@ p {
 }
 
 img {
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
 }
-/*Estas líneas de CSS las usaremos para dar estilo a la cabecera:*/
+/*Estas lÃ­neas de CSS las usaremos para dar estilo a la cabecera:*/
 
 #main-header {
 	background: #333;
@@ -60,7 +60,7 @@ img {
 	}
 	
 
-/** Navegación*/
+/** NavegaciÃ³n*/
 
 nav {
 	float: right;
@@ -86,7 +86,7 @@ nav {
 				nav ul li a:hover {
 					background: #0b76a6;
 				}
-/*Con estos estilos aplicaremos diseño al contenido:*/
+/*Con estos estilos aplicaremos diseÃ±o al contenido:*/
 
 #main-content {
 	background: white;
@@ -100,7 +100,7 @@ nav {
 	#main-content .content {
 		padding: 40px;
 	}
-/*Y por último, con esto estilizaremos el pie de página:*/
+/*Y por Ãºltimo, con esto estilizaremos el pie de pÃ¡gina:*/
 
 #main-footer {
 	background: #333;
